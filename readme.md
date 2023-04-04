@@ -48,6 +48,13 @@ This data is then decoded and used to create the email before it is sent.
 This repo comes with an account verification and password reset template which are in the [templates](mail_app/templates/)
 folder. These html files are formatted using the functions defined in [Functions](mail_app/functions.py).
 
+
+To start the app simply run
+
+```bash
+python app.py
+```
+
 I do hope you find this useful
 
 :star: I'd be delighted ifyou starred this project.
